@@ -22,7 +22,7 @@ TODO:
 =======
 
 	- Fix Camera
-	- Fix NFC
-	- Fix Audio
-        - Fix Ril
+	- Fix NFC (2017-11-04)
+	- Fix Audio (2016-13-12)
+    - Fix Ril
 
