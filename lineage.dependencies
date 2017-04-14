@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "krkshalil/device_sony_holly-common,
+    "revision": "cm-13.0",
+    "target_path": "device/sony/holly-common"
+  },
+  {
+    "remote": "github",
+    "repository": "krkshalil/vendor_sony_hollyss",
+    "revision": "cm-13.0",
+    "target_path": "vendor/sony/hollyss"
+  },
+  {
+    "remote": "github",
+    "repository": "TRXTeam/android_kernel_sony_holly",
+    "revision": "master",
+    "target_path": "kernel/sony/holly"
+  }
+]
